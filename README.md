@@ -1,5 +1,5 @@
 # MMA-Summer-Datathon-2021
-<h4><u>Note:</u> This repository contains the solution code used by “Team Amber” in Rotman: MMA Summer Datathon 2021</h4>
+<u>Note:</u> <h4>This repository contains the solution code used by “Team Amber” in Rotman: MMA Summer Datathon 2021</h4>
 <h4><u>Competition Link :</u> https://github.com/bigdatacup/Big-Data-Cup-2021 </h4>
 
 
@@ -252,3 +252,5 @@
   <li>Detail 1: Infraction Type (e.g. Slashing, Tripping, Roughing, Hooking, ...)</li>
 </ul>
 
+## Result
+<h4>The solution suggested by "Team Amber" won 3rd place in MMA Summer Datathon 2021</h4>
