@@ -1,8 +1,8 @@
 # MMA-Summer-Datathon-2021
-<h3>
-Note: This repository contains the solution code used by “Team Amber” in Rotman: MMA Summer Datathon 2021
-Competition Link : https://github.com/bigdatacup/Big-Data-Cup-2021
-</h3>
+<h3>Note: This repository contains the solution code used by “Team Amber” in Rotman: MMA Summer Datathon 2021</h3>
+<h3>Competition Link : https://github.com/bigdatacup/Big-Data-Cup-2021 </h3>
+
+## Dataset: Please use the competition link to retrieve the dataset
 
 
 <h1>Dataset</h1>
