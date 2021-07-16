@@ -1,8 +1,14 @@
 # MMA-Summer-Datathon-2021
-<p><u>Note:</u> This repository contains the solution code used by “Team Amber” in Rotman: MMA Summer Datathon 2021</p>
+<p>Note: This repository contains the solution code used by “Team Amber” in Rotman: MMA Summer Datathon 2021</p>
 <p>Competition Link : https://github.com/bigdatacup/Big-Data-Cup-2021 </p>
 
-
+<h4>Team Amber:</h4>
+<ol>
+  <li>Bhavana Balakrishna Rao</li>
+  <li>Irene Jin</li>
+  <li>Yash Bhatnagar</li>
+  <li>Zhenghao Zhang</li>
+</ol>
 
 
 <h1>Dataset</h1>
