@@ -1,17 +1,9 @@
-<h1>Big Data Cup Submission Guidelines</h1>
+# MMA-Summer-Datathon-2021
+<h3>
+Note: This repository contains the solution code used by “Team Amber” in Rotman: MMA Summer Datathon 2021
+Competition Link : https://github.com/bigdatacup/Big-Data-Cup-2021
+</h3>
 
-<br>
-<h2>Submission Rules & Guidelines:</h2>
-<p>Maximum 6 pages, including figures (size limit 10GB on submission)</p>
-<p>Format of submission:</p>
-<ul>
-  <li>Define your thesis </li>
-  <li>Provide a summary of your methodology</li>
-  <li>Give an overview of your findings</li>
-  <li>Identify key action points from your analysis</li>
-  <li>Code may be included as an appendix</li>
-</ul>
-<br>
 
 <h1>Dataset</h1>
 <h2>Summary</h2>
@@ -40,7 +32,7 @@
     </ul>
   </li>
   </ul>
-<img src = "rink_coords.png"></img>
+
  <ul>
  <li>Detail 1-4 (up to 4 supplementary details for each event, varies by event type)</li>
  <li>Player 2 (name of a secondary player involved in an event, varies by event type)</li>
