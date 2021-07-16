@@ -1,11 +1,14 @@
 # MMA-Summer-Datathon-2021
-<h3>Note: This repository contains the solution code used by “Team Amber” in Rotman: MMA Summer Datathon 2021</h3>
-<h3>Competition Link : https://github.com/bigdatacup/Big-Data-Cup-2021 </h3>
+<h4>Note: This repository contains the solution code used by “Team Amber” in Rotman: MMA Summer Datathon 2021</h4>
+<h4>Competition Link : https://github.com/bigdatacup/Big-Data-Cup-2021 </h4>
 
-## Dataset: Please use the competition link to retrieve the dataset
+
 
 
 <h1>Dataset</h1>
+
+<h4>Dataset: Please use the competition link to retrieve the dataset</h4>
+
 <h2>Summary</h2>
 <p>The dataset is comprised of Stathletes-tracked junior hockey data from the Erie Otters and women’s hockey data from the Olympics and NCAA. The included events have been translated from Stathletes’ raw data to enhance accessibility and interpretability. The various event types include shots, plays, takeaways, puck recoveries, dump ins, dump outs, zone entries, faceoffs and penalties. Event definitions may slightly differ from other sources. For each event, expanded details are provided and the relevant skaters and teams involved are indicated when necessary.</p>
 
